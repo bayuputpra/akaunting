@@ -1,0 +1,20 @@
+Soal 1
+	# clone git
+	# buat dbase akaunting
+	# edit file host os (C:\Windows\System32\drivers\etc\hosts)
+	# edit file virtual host apache (C:\xampp\apache\conf\extra\httpd-vhosts.conf)
+	# aktifkan modul apache (C:\xampp\apache\conf\httpd.conf)
+	# salin file .env.example di folder root proyek menjadi .env
+	# install dependency composer
+	# generate app key
+	# migrasi dbase
+
+Soal 4 (Fitur Catatan Pengingat)
+    # buat file migration baru bernama create_reminder_notes_table dan lakukan edit
+    # migrasi dbase
+    # buat model reminder note dan lakukan edit
+	# buat model reminder note controller dan lakukan edit
+	# buat view baru resources/views/reminder_notes/index.blade.php
+	# tambah route baru di routes/web.php
+
+Notes:fitur/tombol belum ditambahkan ke dashboard
